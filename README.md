@@ -1,11 +1,1 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+Cocktails is a simple single page app where you can search for your favorite cocktails and get it's details. The project uses ReactJS and ContextApi.
